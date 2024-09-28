@@ -9,4 +9,4 @@ No	FName     LName          Job Title      	        Location
 5   Nazifa  Amarkhail  Sales Dirrector  Kabul - Afghanistan
 6   Haseebullah Amarkhail	Operation Dirrector	Kabul - Afghanistan
 7   Bill Gates  Corporate Tech Advisor  Seattle - USA
-8   John Greene  Corporate Lawyer  Olampia, Washington. USA
+8   John Greene  Corporate Lawyer  Olympia, Washington. USA
