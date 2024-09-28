@@ -8,4 +8,4 @@ No	FName     LName          Job Title      	        Location
 4   Muzhda	Amarkhail	Site Dirrector Assistant	Kabul - Afghanistan
 5   Nazifa  Amarkhail  Sales Dirrector  Kabul - Afghanistan
 6   Haseebullah Amarkhail	Operation Dirrector	Kabul - Afghanistan
-
+7   Bill Gates  Corporate Tech Advisor  Seattle - USA
