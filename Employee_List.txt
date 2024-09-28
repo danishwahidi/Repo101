@@ -7,3 +7,5 @@ No	FName     LName          Job Title      	        Location
 3	  Aisha 	    Wahidi	      Site Dirrector	         Spokane, Washington. USA
 4   Muzhda	Amarkhail	Site Dirrector Assistant	Kabul - Afghanistan
 5   Nazifa  Amarkhail  Sales Dirrector  Kabul - Afghanistan
+6   Haseebullah Amarkhail	Operation Dirrector	Kabul - Afghanistan
+
