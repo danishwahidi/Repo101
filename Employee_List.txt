@@ -2,4 +2,4 @@ RapidSoft Java Develpment Company
 ----------------------------------------------
 
 Number    FName    LName    Job Title      Location
-1          Danish  Wahidi
+1          Danish  Wahidi                   Spokane, Washington. USA
