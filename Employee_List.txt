@@ -1,6 +1,7 @@
 RapidSoft Java Develpment Company
 ----------------------------------------------
 
-Number    FName     LName          Job Title      	Location
+No	FName     LName          Job Title      	Location
 1                Danish      Wahidi        Software Developer     Spokane, Washington. USA
 2                Muzhgan  Wahidi	Software Developer	Spokane, Washington. USA
+3	Aisha 	Wahidi	Site Dirrector	Spokane, Washington. USA
